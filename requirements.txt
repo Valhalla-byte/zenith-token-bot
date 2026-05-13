@@ -1,0 +1,6 @@
+discord.py
+easyocr
+opencv-python-headless
+numpy
+Pillow
+aiohttp
